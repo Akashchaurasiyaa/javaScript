@@ -1,2 +1,2 @@
 # javaScript
-A code repo fo java script
+A code repo for java script
